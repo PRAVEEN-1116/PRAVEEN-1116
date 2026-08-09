@@ -49,8 +49,6 @@
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by Praveen B.V</b>
-</p>
 
 # 🧠 My Tech Journey
 
