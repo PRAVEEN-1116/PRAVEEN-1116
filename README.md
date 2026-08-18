@@ -6,7 +6,7 @@
 </p>
 ---
 
-# 🌈 About Me
+# About Me
 
 👋 Hi, I'm **Praveen B.V**
 
